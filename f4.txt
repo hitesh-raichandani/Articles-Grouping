@@ -1,0 +1,1 @@
+Data mining or data dredging: model or knowledge discovery from data (KDD), extraction of implicit, previously unknown, and potentially useful information from data based on machine learning techniques, practical for finding/describing the structural patterns in data.

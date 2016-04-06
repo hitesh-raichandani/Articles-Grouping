@@ -1,0 +1,1 @@
+Most data analysis is comparative, new non-relational databases or NoSQL (origin from Google's BigTable or Amazon's Dynamo) store huge unstructured data and provide eventual consistency but not absolute consistency, provide enough structure to organize data, but do not require the exact schema of the data before storing it.

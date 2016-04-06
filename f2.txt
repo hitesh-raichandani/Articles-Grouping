@@ -1,0 +1,1 @@
+Traditional relational databases with static schemas are designed for consistency and support complex transactions and denormalized (to speed up querying) by time consuming prematerialization (to predict the queries) into an online analytic processing (OLAP) cube, but not scale well with the size.

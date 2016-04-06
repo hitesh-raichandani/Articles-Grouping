@@ -1,0 +1,1 @@
+Mahout is a machine learning library for analytical computation including collaborative filtering, user recommendations, clustering, regression, classification, pattern mining.
