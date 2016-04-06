@@ -2,15 +2,15 @@ Example Execution:
 
 //input
 
-f1.txt f2.txt f3.txt
+f1.txt    f2.txt    f3.txt
 
-f4.txt f5.txt f6.txt
+f4.txt    f5.txt    f6.txt
 
-f7.txt f8.txt f9.txt
+f7.txt    f8.txt    f9.txt
 
-f10.txt infile similar.dat
+f10.txt   infile    similar.dat
 
-t20.dat t21.dat t29.dat
+t20.dat   t21.dat   t29.dat
 
 
 //output
