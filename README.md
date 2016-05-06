@@ -1,3 +1,7 @@
+• Developed a program which groups text files based on the similarity of their content.
+
+• Input to the program is a list of plain text file names and it gives output a list of groups consisting of similar files.
+
 Example Execution:
 
 //input
@@ -8,16 +12,16 @@ f4.txt    f5.txt    f6.txt
 
 f7.txt    f8.txt    f9.txt
 
-f10.txt   infile    similar.dat
+f10.txt   f11    f12.dat
 
 t20.dat   t21.dat   t29.dat
 
 
 //output
 
-Group 1: f1.txt, infile, f10.txt
+Group 1: f1.txt,  f10.txt, f11
 
-Group 2: f2.txt, similar.dat
+Group 2: f2.txt, f12.dat
 
 Group 3: f3.txt
 
