@@ -1,19 +1,13 @@
-• Developed a program which groups text files based on the similarity of their content.
+Developed a program which groups text files based on the similarity of their content as a part of Pattern Recognition and Data Mining Course work.
 
-• Input to the program is a list of plain text file names and it gives output a list of groups consisting of similar files.
-
-Example Execution:
+Sample execution:
 
 //input
 
 f1.txt    f2.txt    f3.txt
-
 f4.txt    f5.txt    f6.txt
-
 f7.txt    f8.txt    f9.txt
-
 f10.txt   f11    f12.dat
-
 t20.dat   t21.dat   t29.dat
 
 
